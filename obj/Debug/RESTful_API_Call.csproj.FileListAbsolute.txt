@@ -1,0 +1,9 @@
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\bin\Debug\RESTful_API_Call.exe.config
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\bin\Debug\RESTful_API_Call.exe
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\bin\Debug\RESTful_API_Call.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\obj\Debug\RESTful_API_Call.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\obj\Debug\RESTful_API_Call.Form1.resources
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\obj\Debug\RESTful_API_Call.Properties.Resources.resources
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\obj\Debug\RESTful_API_Call.csproj.GenerateResource.cache
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\obj\Debug\RESTful_API_Call.exe
+C:\Users\Remus Iftimie\Personal_GitHub\RESTful_API_Call\obj\Debug\RESTful_API_Call.pdb
